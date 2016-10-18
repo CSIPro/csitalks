@@ -2,8 +2,8 @@
 
 Recopilación de las presentaciones en #csitalks.
 
-- Semestre 2016-2
-- Semestre 2016-1
+- [Semestre 2016-2](#semestre-2016-2)
+- [Semestre 2016-1](#semestre-2016-1)
 
 # Semestre 2016-2
 
