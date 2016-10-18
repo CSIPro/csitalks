@@ -20,10 +20,10 @@ Recopilación de las presentaciones en #csitalks.
 
 - An introduction to user experience and usability, por Erick Delfin
 - [Python para todos, por Cristian Samaniego](https://prezi.com/pzwicemzrfmo/python/)
-- Testing 101, por Mitzi Cubedo
+- [Testing 101, por Mitzi Cubedo](https://drive.google.com/file/d/0BxdZ1aXtKUi5djhXTjZCMW12S0E/edit)
 - [You Don't Know JavaScript, por Abraham Hurtado](https://docs.google.com/presentation/d/1f43vkXpfDNYTnYror8wYXIjmQlEYLmLQcj1NKZL3Lq4/edit?usp=sharing)
 - [The Web Remembers, por Carlos Contreras de Nearsoft](http://slides.com/carloscontreiras/the-web-remembers/)
-- Cloud Computing, por Rolando Valenzuela
+- Seguridad Informática, por Rolando Valenzuela
 - [APIs en nuestra vida diaria, por Abraham Hurtado](https://docs.google.com/presentation/d/1bZ89DGpU0RvhhyrwvYa6CQLMiVW_9uLgRRqIVB0F8fw/edit?usp=sharing)
 - Buenas prácticas de programación, por Ramón Ramírez
 - Virtualización, por Rolando Valenzuela
