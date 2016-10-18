@@ -18,7 +18,7 @@ Recopilación de las presentaciones en #csitalks.
 
 # Semestre 2016-1
 
-- An introduction to user experience and usability, por Erick Delfin
+- [U*2: An Introduction to User Experience & Usability, por Erick Delfin](https://docs.google.com/presentation/d/1q9k2X2NhmByM_d9jaw1v60-rTP8dxnwhh7oueZnkuZQ/edit?usp=sharing)
 - [Python para todos, por Cristian Samaniego](https://prezi.com/pzwicemzrfmo/python/)
 - [Testing 101, por Mitzi Cubedo](https://drive.google.com/file/d/0BxdZ1aXtKUi5djhXTjZCMW12S0E/edit)
 - [You Don't Know JavaScript, por Abraham Hurtado](https://docs.google.com/presentation/d/1f43vkXpfDNYTnYror8wYXIjmQlEYLmLQcj1NKZL3Lq4/edit?usp=sharing)
