@@ -7,11 +7,11 @@ Recopilación de las presentaciones en #csitalks.
 
 # Semestre 2016-2
 
-- Lenguajes de Programación, por José Sinohui
+- [Lenguajes de Programación, por José Sinohui](http://slides.com/josejesussinohuifernandez/programming-languages#/)
 - [Inteligencia Artificial, por Cristian Samaniego](https://docs.google.com/presentation/d/1ieoW_pOVucSWowIGTTn-zoFlEPaC4i58ummkJy8KZCI/edit#slide=id.g35f391192_00)
 - [Git, por Abraham Hurtado](https://docs.google.com/presentation/d/1dOXuG_JVLF_of1fW0C3E8cJlOjCssjaVK1EbvWdhQOc/edit?usp=sharing)
 - El arte de la terminal, Diego Ríos
-- Don't stop and keep going, Ramón Ramírez
+- [Don't stop and keep going, Ramón Ramírez](https://docs.google.com/presentation/d/1HDqWKggs9nqR-Z5K5RCp2hemdKmt5pwFei8VjjDrKms/edit#slide=id.g16c8509838_0_0)
 - [Learn outside the box, Gilberto Ayala](https://docs.google.com/presentation/d/1vzsX4OJee3viAScLwSqCjXsI_annog8b5NuC35pmUKM/edit)
 - Informática Forense, Martín Rojas
 - Linux, por Diego Ríos
@@ -25,5 +25,5 @@ Recopilación de las presentaciones en #csitalks.
 - [The Web Remembers, por Carlos Contreras de Nearsoft](http://slides.com/carloscontreiras/the-web-remembers/)
 - Seguridad Informática, por Rolando Valenzuela
 - [APIs en nuestra vida diaria, por Abraham Hurtado](https://docs.google.com/presentation/d/1bZ89DGpU0RvhhyrwvYa6CQLMiVW_9uLgRRqIVB0F8fw/edit?usp=sharing)
-- Buenas prácticas de programación, por Ramón Ramírez
+- [Buenas prácticas de programación, por Ramón Ramírez](https://docs.google.com/presentation/d/1HvGY96MHkmm42PWAFYI_B_uTlHpUBZM-7jE6h2upBZ4/edit#slide=id.p)
 - Virtualización, por Rolando Valenzuela
