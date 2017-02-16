@@ -2,8 +2,12 @@
 
 Recopilación de las presentaciones en #csitalks.
 
+- [Semestre 2017-1](#semestre-2017-1)
 - [Semestre 2016-2](#semestre-2016-2)
 - [Semestre 2016-1](#semestre-2016-1)
+
+# Semestre 2017-1
+- [El mundo de Java](http://slides.com/joshuasaucedo/deck)
 
 # Semestre 2016-2
 - [How to Deal With Interviews, por Ariel Isaac de Nearsoft](http://slides.com/arielisaac/deck-4/fullscreen#/)
