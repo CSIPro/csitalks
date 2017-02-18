@@ -8,6 +8,7 @@ Recopilación de las presentaciones en #csitalks.
 
 # Semestre 2017-1
 - [El mundo de Java, por Joshua Saucedo](http://slides.com/joshuasaucedo/deck)
+- [Scripting for Babies, por José Sinohui](http://slides.com/josejesussinohuifernandez/scripting#/)
 
 # Semestre 2016-2
 - [How to Deal With Interviews, por Ariel Isaac de Nearsoft](http://slides.com/arielisaac/deck-4/fullscreen#/)
