@@ -9,6 +9,7 @@ Recopilación de las presentaciones en #csitalks.
 # Semestre 2017-1
 - [El mundo de Java, por Joshua Saucedo](http://slides.com/joshuasaucedo/deck)
 - [Scripting for Babies, por José Sinohui](http://slides.com/josejesussinohuifernandez/scripting#/)
+- [Introducción a Docker, por Germán Alberto Verdugo](https://docs.google.com/presentation/d/1qhe9_VD-7AWWeOYxaWsYmTCAirjAv2lyqRr9AkBdn7w/edit?usp=sharing)
 
 # Semestre 2016-2
 - [How to Deal With Interviews, por Ariel Isaac de Nearsoft](http://slides.com/arielisaac/deck-4/fullscreen#/)
