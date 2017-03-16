@@ -10,11 +10,14 @@ Recopilación de las presentaciones en #csitalks.
 - [El mundo de Java, por Joshua Saucedo](http://slides.com/joshuasaucedo/deck)
 - [Scripting for Babies, por José Sinohui](http://slides.com/josejesussinohuifernandez/scripting#/)
 - [Introducción a Docker, por Germán Alberto Verdugo](https://docs.google.com/presentation/d/1qhe9_VD-7AWWeOYxaWsYmTCAirjAv2lyqRr9AkBdn7w/edit?usp=sharing)
+- Arduino 101, por Mitzi Cubedo
+- A slice of Raspberry Pi, por Cristian Samaniego
+- [Sonic Pi, por Gilberto Ayala](https://docs.google.com/presentation/d/1n7cQd-f248pBPwwoLhebLsAonE7Acur-S5tgUUaNtCA/edit?usp=sharing)
 
 # Semestre 2016-2
 - [How to Deal With Interviews, por Ariel Isaac de Nearsoft](http://slides.com/arielisaac/deck-4/fullscreen#/)
 - [Spring in Action, por Luis Hernández de Nearsoft](http://slides.com/luishernandez-7/deck/fullscreen#/)
-- [WordPress, por Emmanuelle Guerrero]
+- WordPress, por Emmanuelle Guerrero
 - [Cloud Computing, por Rolando Valenzuela](https://drive.google.com/file/d/0Bw80-jlEhlkiZURhZWlOYTZETUU/view?usp=sharing)
 - [Lenguajes de Programación, por José Sinohui](http://slides.com/josejesussinohuifernandez/programming-languages#/)
 - [Inteligencia Artificial, por Cristian Samaniego](https://docs.google.com/presentation/d/1ieoW_pOVucSWowIGTTn-zoFlEPaC4i58ummkJy8KZCI/edit#slide=id.g35f391192_00)
