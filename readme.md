@@ -1,12 +1,17 @@
 # Recopilación de CSITalks
 
 Recopilación de las presentaciones en #csitalks.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 204965d6d06114286ac589655651e881f5f7cfe9
 - [Semestre 2017-2](#semestre-2017-2)
 - [Semestre 2017-1](#semestre-2017-1)
 - [Semestre 2016-2](#semestre-2016-2)
 - [Semestre 2016-1](#semestre-2016-1)
-
 # Semestre 2017-2
+- [Web Design 101, por Erick Delfin](#)
+- [Learn outside the box, Gilberto Ayala](https://docs.google.com/presentation/d/1vzsX4OJee3viAScLwSqCjXsI_annog8b5NuC35pmUKM/edit?usp=sharing)
 - [A look into Unity, por Emilio Wong](http://slides.com/emilews/deck) 
 
 # Semestre 2017-1
