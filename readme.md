@@ -1,10 +1,13 @@
 # Recopilación de CSITalks
 
 Recopilación de las presentaciones en #csitalks.
-
+- [Semestre 2017-2](#semestre-2017-2)
 - [Semestre 2017-1](#semestre-2017-1)
 - [Semestre 2016-2](#semestre-2016-2)
 - [Semestre 2016-1](#semestre-2016-1)
+
+# Semestre 2017-2
+- [A look into Unity, por Emilio Wong](http://slides.com/emilews/deck) 
 
 # Semestre 2017-1
 - [El mundo de Java, por Joshua Saucedo](http://slides.com/joshuasaucedo/deck)
