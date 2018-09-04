@@ -9,8 +9,6 @@ Recopilación de las presentaciones en #csitalks.
 
 # Semestre 2018-1 
 - [Unity, por Emilio Wong](https://slides.com/emilews/deck-3)
-- [GameMaker, por Jonathan Islas](https://slides.com/emilews/deck-2)
-- [Cómo ser un ISI y no fallar en el intento, por Aileen Palafox](https://docs.google.com/presentation/d/1oIBE2YHQmYQoZlYgKYDLmf385Iw9eh6E-12xt3ESa10/edit#slide=id.p)
 
 # Semestre 2017-2
 - [Web Design 101, por Erick Delfin](#)
