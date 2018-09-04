@@ -11,7 +11,7 @@ Recopilación de las presentaciones en #csitalks.
 - [Unity, por Emilio Wong](https://slides.com/emilews/deck-3)
 
 # Semestre 2017-2
-- [Web Design 101, por Erick Delfin](#)
+- [Web Design 101, por Erick Delfin](http://slides.com/nifled/deck)
 - [Learn outside the box, Gilberto Ayala](https://docs.google.com/presentation/d/1vzsX4OJee3viAScLwSqCjXsI_annog8b5NuC35pmUKM/edit?usp=sharing)
 - [A look into Unity, por Emilio Wong](http://slides.com/emilews/deck) 
 
