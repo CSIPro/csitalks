@@ -8,7 +8,9 @@ Recopilación de las presentaciones en #csitalks.
 - [Semestre 2016-1](#semestre-2016-1)
 
 # Semestre 2018-1 
+- [Cómo ser ISI y no fallar en el intento](https://docs.google.com/presentation/d/1oIBE2YHQmYQoZlYgKYDLmf385Iw9eh6E-12xt3ESa10/edit?usp=sharing)
 - [Unity, por Emilio Wong](https://slides.com/emilews/deck-3)
+
 
 # Semestre 2017-2
 - [Web Design 101, por Erick Delfin](http://slides.com/nifled/deck)
